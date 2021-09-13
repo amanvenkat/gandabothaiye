@@ -70,4 +70,4 @@ async  def on_message(message):
 			#await message.reply( f'{message.author.mention} \n ans : '+ linkup)
 
 
-client.run("ODg3MDY3NzYzMTU4NDUwMjE2.YT-wOw.kPQECSRX-owc8xvGVTlMvIFHJJU")
+client.run("ODg3MDY3NzYzMTU4NDUwMjE2.YT-wOw.laB3CrL-kUGVc04d6u2Qc5kBJt0")
